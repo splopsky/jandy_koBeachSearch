@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jandy_koBeachSearch/static/css/main.4a9f583f.chunk.css",
+    "main.js": "/jandy_koBeachSearch/static/js/main.4fd645c8.chunk.js",
+    "main.js.map": "/jandy_koBeachSearch/static/js/main.4fd645c8.chunk.js.map",
+    "runtime-main.js": "/jandy_koBeachSearch/static/js/runtime-main.5afbf641.js",
+    "runtime-main.js.map": "/jandy_koBeachSearch/static/js/runtime-main.5afbf641.js.map",
+    "static/js/2.275fc047.chunk.js": "/jandy_koBeachSearch/static/js/2.275fc047.chunk.js",
+    "static/js/2.275fc047.chunk.js.map": "/jandy_koBeachSearch/static/js/2.275fc047.chunk.js.map",
+    "index.html": "/jandy_koBeachSearch/index.html",
+    "static/css/main.4a9f583f.chunk.css.map": "/jandy_koBeachSearch/static/css/main.4a9f583f.chunk.css.map",
+    "static/js/2.275fc047.chunk.js.LICENSE.txt": "/jandy_koBeachSearch/static/js/2.275fc047.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5afbf641.js",
+    "static/js/2.275fc047.chunk.js",
+    "static/css/main.4a9f583f.chunk.css",
+    "static/js/main.4fd645c8.chunk.js"
+  ]
+}
