@@ -28,7 +28,7 @@ body {
     
 
 img {
-    max-width: 300px;
+    max-width: 200px;
 }
 
 .App{
@@ -48,8 +48,9 @@ input{
 }
 .beaches {
     justify-content: space-between;
-    float: left;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
     margin: 40px;
     padding-top: 10px;
     text-align: center;
